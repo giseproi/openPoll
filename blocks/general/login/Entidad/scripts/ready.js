@@ -1,0 +1,3 @@
+		/**
+namespace general\login;
+		 */
